@@ -10,6 +10,9 @@
           <e p="ResponseStatus.cs" t="Include" />
         </e>
         <e p="Models" t="Include">
+          <e p="Cargo" t="Include">
+            <e p="Order.cs" t="Include" />
+          </e>
           <e p="Common" t="Include">
             <e p="Response.cs" t="Include" />
           </e>
