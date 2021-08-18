@@ -10,11 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c0dd6ee-fa6d-442e-892c-27a0eadc99f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Models/Cargo/Royalty.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Models/Cargo/Royalty.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
-    </list>
+    <list default="true" id="9c0dd6ee-fa6d-442e-892c-27a0eadc99f2" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +33,8 @@
         <option value="$PROJECT_DIR$/Assets/Models/Cargo/ResaleItemWithMetadata.cs" />
         <option value="$PROJECT_DIR$/Assets/Models/Cargo/ResaleItemGroups.cs" />
         <option value="$PROJECT_DIR$/Assets/Models/Cargo/Royalty.cs" />
+        <option value="$PROJECT_DIR$/Assets/Enum/Chain.cs" />
+        <option value="$PROJECT_DIR$/Assets/Models/Cargo/Token.cs" />
       </list>
     </option>
   </component>
@@ -83,7 +81,7 @@
       <option name="presentableId" value="Default" />
       <updated>1629215789186</updated>
       <workItem from="1629215795288" duration="1981000" />
-      <workItem from="1629224977574" duration="5487000" />
+      <workItem from="1629224977574" duration="5960000" />
     </task>
     <servers />
   </component>
