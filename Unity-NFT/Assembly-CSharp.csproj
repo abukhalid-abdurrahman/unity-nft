@@ -63,6 +63,7 @@
      <Compile Include="Assets\Models\Cargo\GetOrderParams.cs" />
      <Compile Include="Assets\Models\Cargo\Order.cs" />
      <Compile Include="Assets\Models\Cargo\OrderParams.cs" />
+     <Compile Include="Assets\Models\Cargo\PaginationResponseWithResults.cs" />
      <Compile Include="Assets\Models\Cargo\ResaleItem.cs" />
      <Compile Include="Assets\Models\Cargo\ResaleItemGroups.cs" />
      <Compile Include="Assets\Models\Cargo\ResaleItemWithMetadata.cs" />

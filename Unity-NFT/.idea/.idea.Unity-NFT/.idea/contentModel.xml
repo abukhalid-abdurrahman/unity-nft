@@ -21,6 +21,7 @@
             <e p="GetOrderParams.cs" t="Include" />
             <e p="Order.cs" t="Include" />
             <e p="OrderParams.cs" t="Include" />
+            <e p="PaginationResponseWithResults.cs" t="Include" />
             <e p="ResaleItem.cs" t="Include" />
             <e p="ResaleItemGroups.cs" t="Include" />
             <e p="ResaleItemWithMetadata.cs" t="Include" />
