@@ -59,6 +59,7 @@
      <Compile Include="Assets\Models\Cargo\Fee.cs" />
      <Compile Include="Assets\Models\Cargo\Order.cs" />
      <Compile Include="Assets\Models\Cargo\OrderParams.cs" />
+     <Compile Include="Assets\Models\Cargo\ResaleItem.cs" />
      <Compile Include="Assets\Models\Cargo\ResaleItemGroups.cs" />
      <Compile Include="Assets\Models\Cargo\ResaleItemWithMetadata.cs" />
      <Compile Include="Assets\Models\Cargo\Royalty.cs" />
