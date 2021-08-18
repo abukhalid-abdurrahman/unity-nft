@@ -61,6 +61,7 @@
      <Compile Include="Assets\Models\Cargo\ResaleItemGroups.cs" />
      <Compile Include="Assets\Models\Cargo\ResaleItemWithMetadata.cs" />
      <Compile Include="Assets\Models\Cargo\Royalty.cs" />
+     <Compile Include="Assets\Models\Cargo\Token.cs" />
      <Compile Include="Assets\Models\Cargo\TokenMetadata.cs" />
      <Compile Include="Assets\Models\Common\Response.cs" />
  <Reference Include="UnityEngine">
