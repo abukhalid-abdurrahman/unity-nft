@@ -57,6 +57,7 @@
      <Compile Include="Assets\Models\Cargo\Beneficiary.cs" />
      <Compile Include="Assets\Models\Cargo\ContractGroupBase.cs" />
      <Compile Include="Assets\Models\Cargo\ContractResaleItemsResponse.cs" />
+     <Compile Include="Assets\Models\Cargo\CrateVendorV3.cs" />
      <Compile Include="Assets\Models\Cargo\Fee.cs" />
      <Compile Include="Assets\Models\Cargo\Order.cs" />
      <Compile Include="Assets\Models\Cargo\OrderParams.cs" />

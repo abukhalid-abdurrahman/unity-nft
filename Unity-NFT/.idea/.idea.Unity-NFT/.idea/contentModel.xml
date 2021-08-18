@@ -15,6 +15,7 @@
             <e p="Beneficiary.cs" t="Include" />
             <e p="ContractGroupBase.cs" t="Include" />
             <e p="ContractResaleItemsResponse.cs" t="Include" />
+            <e p="CrateVendorV3.cs" t="Include" />
             <e p="Fee.cs" t="Include" />
             <e p="Order.cs" t="Include" />
             <e p="OrderParams.cs" t="Include" />
