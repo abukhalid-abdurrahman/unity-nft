@@ -55,6 +55,7 @@
      <Compile Include="Assets\Enum\Chain.cs" />
      <Compile Include="Assets\Enum\DisplayContentType.cs" />
      <Compile Include="Assets\Enum\ResponseStatus.cs" />
+     <Compile Include="Assets\Enum\ToDeleteType.cs" />
      <Compile Include="Assets\Models\Cargo\Beneficiary.cs" />
      <Compile Include="Assets\Models\Cargo\ConsecutivePurchaseParams.cs" />
      <Compile Include="Assets\Models\Cargo\ContractGroupBase.cs" />
@@ -63,6 +64,7 @@
      <Compile Include="Assets\Models\Cargo\ContractV3.cs" />
      <Compile Include="Assets\Models\Cargo\CrateVendorV3.cs" />
      <Compile Include="Assets\Models\Cargo\CreateConsecutiveSaleParams.cs" />
+     <Compile Include="Assets\Models\Cargo\DisplayContent.cs" />
      <Compile Include="Assets\Models\Cargo\Fee.cs" />
      <Compile Include="Assets\Models\Cargo\GetOrderParams.cs" />
      <Compile Include="Assets\Models\Cargo\GetShowcaseByIdResponse.cs" />
@@ -78,8 +80,10 @@
      <Compile Include="Assets\Models\Cargo\ResaleItemV3.cs" />
      <Compile Include="Assets\Models\Cargo\ResaleItemWithMetadata.cs" />
      <Compile Include="Assets\Models\Cargo\Royalty.cs" />
+     <Compile Include="Assets\Models\Cargo\SaveNft.cs" />
      <Compile Include="Assets\Models\Cargo\ShowcaseItem.cs" />
      <Compile Include="Assets\Models\Cargo\StakedTokensResponse.cs" />
+     <Compile Include="Assets\Models\Cargo\ToDelete.cs" />
      <Compile Include="Assets\Models\Cargo\Token.cs" />
      <Compile Include="Assets\Models\Cargo\TokenDetail.cs" />
      <Compile Include="Assets\Models\Cargo\TokenMetadata.cs" />

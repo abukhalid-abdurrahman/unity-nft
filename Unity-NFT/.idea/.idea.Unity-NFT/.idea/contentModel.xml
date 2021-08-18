@@ -10,6 +10,7 @@
           <e p="Chain.cs" t="Include" />
           <e p="DisplayContentType.cs" t="Include" />
           <e p="ResponseStatus.cs" t="Include" />
+          <e p="ToDeleteType.cs" t="Include" />
         </e>
         <e p="Models" t="Include">
           <e p="Cargo" t="Include">
@@ -21,6 +22,7 @@
             <e p="ContractV3.cs" t="Include" />
             <e p="CrateVendorV3.cs" t="Include" />
             <e p="CreateConsecutiveSaleParams.cs" t="Include" />
+            <e p="DisplayContent.cs" t="Include" />
             <e p="Fee.cs" t="Include" />
             <e p="GetOrderParams.cs" t="Include" />
             <e p="GetShowcaseByIdResponse.cs" t="Include" />
@@ -36,8 +38,10 @@
             <e p="ResaleItemV3.cs" t="Include" />
             <e p="ResaleItemWithMetadata.cs" t="Include" />
             <e p="Royalty.cs" t="Include" />
+            <e p="SaveNft.cs" t="Include" />
             <e p="ShowcaseItem.cs" t="Include" />
             <e p="StakedTokensResponse.cs" t="Include" />
+            <e p="ToDelete.cs" t="Include" />
             <e p="Token.cs" t="Include" />
             <e p="TokenDetail.cs" t="Include" />
             <e p="TokenMetadata.cs" t="Include" />
