@@ -53,7 +53,10 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\Enum\ResponseStatus.cs" />
+     <Compile Include="Assets\Models\Cargo\Beneficiary.cs" />
+     <Compile Include="Assets\Models\Cargo\Fee.cs" />
      <Compile Include="Assets\Models\Cargo\Order.cs" />
+     <Compile Include="Assets\Models\Cargo\OrderParams.cs" />
      <Compile Include="Assets\Models\Common\Response.cs" />
  <Reference Include="UnityEngine">
  <HintPath>E:/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>

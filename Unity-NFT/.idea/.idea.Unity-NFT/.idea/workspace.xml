@@ -11,12 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c0dd6ee-fa6d-442e-892c-27a0eadc99f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Models/Cargo.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Models/Cargo/Order.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Models/Cargo/Order.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Unity-NFT/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Unity-NFT/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Unity-NFT/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Unity-NFT/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Cargo/Order.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Cargo/Order.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1629215789186</updated>
       <workItem from="1629215795288" duration="1981000" />
-      <workItem from="1629224977574" duration="1399000" />
+      <workItem from="1629224977574" duration="3764000" />
     </task>
     <servers />
   </component>

@@ -1,38 +1,18 @@
-﻿namespace Models.Cargo
-{
-    /*
-     * export type OrderParams = {
-  contractAddress?: string;
-  vendorId?: string;
-  sellerAddress?: string;
-  buyerAddress?: string;
-  tokenId?: string;
-  crateId?: string;
-  from?: string;
-  to?: string;
-  limit?: string;
-  page?: string;
-};
+﻿using System.Collections.Generic;
 
-export type Order = {
-  seller: string;
-  buyer: string;
-  uuid: string;
-  contract: string;
-  tokenId: string;
-  price: string;
-  fees: {
-    cargo: string;
-    crate: string;
-  };
-  beneficiaries: { address: string; commission: string }[];
-  vendorId: string;
-  crateId: string;
-  createdAt: string;
-};
-     */
+namespace Models.Cargo
+{
     public class Order
     { 
         public string Seller { get; set; }
+        public string Buyer { get; set; }
+        public string Uuid { get; set; }
+        public string Contract { get; set; }
+        public string TokenId { get; set; }
+        public string Price { get; set; }
+        public Fee Fees { get; set; }
+        public IEnumerable<Beneficiary> Beneficiaries { get; set; }
+        public string CrateId { get; set; }
+        public string CreatedAt { get; set; }
     }
 }
