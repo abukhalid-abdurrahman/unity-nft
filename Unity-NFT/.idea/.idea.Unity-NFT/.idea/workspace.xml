@@ -30,6 +30,7 @@
         <option value="$PROJECT_DIR$/Assets/Models/Common/Response.cs" />
         <option value="$PROJECT_DIR$/Assets/Models/Cargo/Order.cs" />
         <option value="$PROJECT_DIR$/Assets/Models/Cargo/TokenMetadata.cs" />
+        <option value="$PROJECT_DIR$/Assets/Models/Cargo/ResaleItemWithMetadata.cs" />
       </list>
     </option>
   </component>
@@ -76,7 +77,7 @@
       <option name="presentableId" value="Default" />
       <updated>1629215789186</updated>
       <workItem from="1629215795288" duration="1981000" />
-      <workItem from="1629224977574" duration="4801000" />
+      <workItem from="1629224977574" duration="5109000" />
     </task>
     <servers />
   </component>
