@@ -11,7 +11,11 @@
         </e>
         <e p="Models" t="Include">
           <e p="Cargo" t="Include">
+            <e p="Beneficiary.cs" t="Include" />
+            <e p="Fee.cs" t="Include" />
             <e p="Order.cs" t="Include" />
+            <e p="OrderParams.cs" t="Include" />
+            <e p="TokenMetadata.cs" t="Include" />
           </e>
           <e p="Common" t="Include">
             <e p="Response.cs" t="Include" />
