@@ -22,8 +22,10 @@
             <e p="GetOrderParams.cs" t="Include" />
             <e p="GetShowcaseByIdResponse.cs" t="Include" />
             <e p="GetUserShowcaseArgs.cs" t="Include" />
+            <e p="GetUserTokensByContractRespose.cs" t="Include" />
             <e p="Order.cs" t="Include" />
             <e p="OrderParams.cs" t="Include" />
+            <e p="Owner.cs" t="Include" />
             <e p="PaginationResponseWithResults.cs" t="Include" />
             <e p="ResaleItem.cs" t="Include" />
             <e p="ResaleItemGroups.cs" t="Include" />
