@@ -10,7 +10,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c0dd6ee-fa6d-442e-892c-27a0eadc99f2" name="Default Changelist" comment="" />
+    <list default="true" id="9c0dd6ee-fa6d-442e-892c-27a0eadc99f2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Cargo/ContractMetadata.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Cargo/ContractMetadata.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Unity-NFT/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Unity-NFT/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Cargo/PaginationResponseWithResults.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Cargo/PaginationResponseWithResults.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,6 +49,8 @@
         <option value="$PROJECT_DIR$/Assets/Models/Cargo/UserCrateV3.cs" />
         <option value="$PROJECT_DIR$/Assets/Models/Cargo/GetOrderParams.cs" />
         <option value="$PROJECT_DIR$/Assets/Models/Cargo/ContractV3.cs" />
+        <option value="$PROJECT_DIR$/Assets/Models/Cargo/PaginationResponseWithResults.cs" />
+        <option value="$PROJECT_DIR$/Assets/Models/Cargo/ContractMetadata.cs" />
       </list>
     </option>
   </component>
@@ -89,7 +97,7 @@
       <option name="presentableId" value="Default" />
       <updated>1629215789186</updated>
       <workItem from="1629215795288" duration="1981000" />
-      <workItem from="1629224977574" duration="7573000" />
+      <workItem from="1629224977574" duration="7968000" />
     </task>
     <servers />
   </component>

@@ -14,6 +14,7 @@
           <e p="Cargo" t="Include">
             <e p="Beneficiary.cs" t="Include" />
             <e p="ContractGroupBase.cs" t="Include" />
+            <e p="ContractMetadata.cs" t="Include" />
             <e p="ContractResaleItemsResponse.cs" t="Include" />
             <e p="ContractV3.cs" t="Include" />
             <e p="CrateVendorV3.cs" t="Include" />

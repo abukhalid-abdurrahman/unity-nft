@@ -56,6 +56,7 @@
      <Compile Include="Assets\Enum\ResponseStatus.cs" />
      <Compile Include="Assets\Models\Cargo\Beneficiary.cs" />
      <Compile Include="Assets\Models\Cargo\ContractGroupBase.cs" />
+     <Compile Include="Assets\Models\Cargo\ContractMetadata.cs" />
      <Compile Include="Assets\Models\Cargo\ContractResaleItemsResponse.cs" />
      <Compile Include="Assets\Models\Cargo\ContractV3.cs" />
      <Compile Include="Assets\Models\Cargo\CrateVendorV3.cs" />
