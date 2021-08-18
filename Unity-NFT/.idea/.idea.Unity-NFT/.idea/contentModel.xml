@@ -39,6 +39,7 @@
             <e p="ResaleItemWithMetadata.cs" t="Include" />
             <e p="Royalty.cs" t="Include" />
             <e p="SaveNft.cs" t="Include" />
+            <e p="SellErc1155Body.cs" t="Include" />
             <e p="ShowcaseItem.cs" t="Include" />
             <e p="StakedTokensResponse.cs" t="Include" />
             <e p="ToDelete.cs" t="Include" />

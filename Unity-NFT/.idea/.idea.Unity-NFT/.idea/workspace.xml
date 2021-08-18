@@ -11,8 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c0dd6ee-fa6d-442e-892c-27a0eadc99f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Models/Cargo/SaveNft.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Models/Cargo/SaveNft.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Cargo/SellErc1155Body.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Cargo/SellErc1155Body.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Unity-NFT/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Unity-NFT/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
     </list>
@@ -61,6 +61,8 @@
         <option value="$PROJECT_DIR$/Assets/Models/Cargo/ConsecutivePurchaseParams.cs" />
         <option value="$PROJECT_DIR$/Assets/Enum/DisplayContentType.cs" />
         <option value="$PROJECT_DIR$/Assets/Models/Cargo/SaveNft.cs" />
+        <option value="$PROJECT_DIR$/Assets/Enum/ToDeleteType.cs" />
+        <option value="$PROJECT_DIR$/Assets/Models/Cargo/SellErc1155Body.cs" />
       </list>
     </option>
   </component>
@@ -107,7 +109,7 @@
       <option name="presentableId" value="Default" />
       <updated>1629215789186</updated>
       <workItem from="1629215795288" duration="1981000" />
-      <workItem from="1629224977574" duration="11782000" />
+      <workItem from="1629224977574" duration="12089000" />
     </task>
     <servers />
   </component>
