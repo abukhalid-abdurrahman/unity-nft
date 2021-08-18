@@ -70,7 +70,9 @@
      <Compile Include="Assets\Models\Cargo\ResaleItemV3.cs" />
      <Compile Include="Assets\Models\Cargo\ResaleItemWithMetadata.cs" />
      <Compile Include="Assets\Models\Cargo\Royalty.cs" />
+     <Compile Include="Assets\Models\Cargo\StakedTokensResponse.cs" />
      <Compile Include="Assets\Models\Cargo\Token.cs" />
+     <Compile Include="Assets\Models\Cargo\TokenDetail.cs" />
      <Compile Include="Assets\Models\Cargo\TokenMetadata.cs" />
      <Compile Include="Assets\Models\Cargo\UserCrateV3.cs" />
      <Compile Include="Assets\Models\Cargo\VendorBeneficiaryV3.cs" />

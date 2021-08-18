@@ -28,7 +28,9 @@
             <e p="ResaleItemV3.cs" t="Include" />
             <e p="ResaleItemWithMetadata.cs" t="Include" />
             <e p="Royalty.cs" t="Include" />
+            <e p="StakedTokensResponse.cs" t="Include" />
             <e p="Token.cs" t="Include" />
+            <e p="TokenDetail.cs" t="Include" />
             <e p="TokenMetadata.cs" t="Include" />
             <e p="UserCrateV3.cs" t="Include" />
             <e p="VendorBeneficiaryV3.cs" t="Include" />
