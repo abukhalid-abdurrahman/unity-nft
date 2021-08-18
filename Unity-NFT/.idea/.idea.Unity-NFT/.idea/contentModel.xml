@@ -25,6 +25,7 @@
             <e p="PaginationResponseWithResults.cs" t="Include" />
             <e p="ResaleItem.cs" t="Include" />
             <e p="ResaleItemGroups.cs" t="Include" />
+            <e p="ResaleItemV3.cs" t="Include" />
             <e p="ResaleItemWithMetadata.cs" t="Include" />
             <e p="Royalty.cs" t="Include" />
             <e p="Token.cs" t="Include" />
