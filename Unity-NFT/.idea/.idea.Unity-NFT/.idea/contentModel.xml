@@ -32,6 +32,7 @@
             <e p="ResaleItemV3.cs" t="Include" />
             <e p="ResaleItemWithMetadata.cs" t="Include" />
             <e p="Royalty.cs" t="Include" />
+            <e p="ShowcaseItem.cs" t="Include" />
             <e p="StakedTokensResponse.cs" t="Include" />
             <e p="Token.cs" t="Include" />
             <e p="TokenDetail.cs" t="Include" />
