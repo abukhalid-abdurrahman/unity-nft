@@ -35,6 +35,8 @@
         <option value="$PROJECT_DIR$/Assets/Models/Cargo/Royalty.cs" />
         <option value="$PROJECT_DIR$/Assets/Enum/Chain.cs" />
         <option value="$PROJECT_DIR$/Assets/Models/Cargo/Token.cs" />
+        <option value="$PROJECT_DIR$/Assets/Models/Cargo/ContractGroupBase.cs" />
+        <option value="$PROJECT_DIR$/Assets/Models/Cargo/ResaleItem.cs" />
       </list>
     </option>
   </component>
@@ -81,7 +83,7 @@
       <option name="presentableId" value="Default" />
       <updated>1629215789186</updated>
       <workItem from="1629215795288" duration="1981000" />
-      <workItem from="1629224977574" duration="5960000" />
+      <workItem from="1629224977574" duration="6475000" />
     </task>
     <servers />
   </component>
