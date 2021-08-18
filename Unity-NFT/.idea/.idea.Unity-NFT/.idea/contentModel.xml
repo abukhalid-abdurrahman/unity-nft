@@ -21,6 +21,7 @@
             <e p="Fee.cs" t="Include" />
             <e p="GetOrderParams.cs" t="Include" />
             <e p="GetShowcaseByIdResponse.cs" t="Include" />
+            <e p="GetTokensByContractResponse.cs" t="Include" />
             <e p="GetUserShowcaseArgs.cs" t="Include" />
             <e p="GetUserTokensByContractRespose.cs" t="Include" />
             <e p="Order.cs" t="Include" />
