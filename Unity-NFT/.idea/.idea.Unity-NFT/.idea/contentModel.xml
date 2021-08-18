@@ -24,6 +24,7 @@
             <e p="Royalty.cs" t="Include" />
             <e p="Token.cs" t="Include" />
             <e p="TokenMetadata.cs" t="Include" />
+            <e p="VendorBeneficiaryV3.cs" t="Include" />
           </e>
           <e p="Common" t="Include">
             <e p="Response.cs" t="Include" />
