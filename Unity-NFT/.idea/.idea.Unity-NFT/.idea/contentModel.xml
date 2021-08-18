@@ -7,6 +7,7 @@
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Enum" t="Include">
+          <e p="Chain.cs" t="Include" />
           <e p="ResponseStatus.cs" t="Include" />
         </e>
         <e p="Models" t="Include">

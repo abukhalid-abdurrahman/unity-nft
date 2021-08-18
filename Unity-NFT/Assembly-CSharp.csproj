@@ -52,6 +52,7 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\Enum\Chain.cs" />
      <Compile Include="Assets\Enum\ResponseStatus.cs" />
      <Compile Include="Assets\Models\Cargo\Beneficiary.cs" />
      <Compile Include="Assets\Models\Cargo\Fee.cs" />
