@@ -13,6 +13,7 @@
         <e p="Models" t="Include">
           <e p="Cargo" t="Include">
             <e p="Beneficiary.cs" t="Include" />
+            <e p="ConsecutivePurchaseParams.cs" t="Include" />
             <e p="ContractGroupBase.cs" t="Include" />
             <e p="ContractMetadata.cs" t="Include" />
             <e p="ContractResaleItemsResponse.cs" t="Include" />
