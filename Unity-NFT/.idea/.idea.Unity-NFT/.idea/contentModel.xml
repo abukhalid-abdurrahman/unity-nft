@@ -18,6 +18,7 @@
             <e p="ContractResaleItemsResponse.cs" t="Include" />
             <e p="ContractV3.cs" t="Include" />
             <e p="CrateVendorV3.cs" t="Include" />
+            <e p="CreateConsecutiveSaleParams.cs" t="Include" />
             <e p="Fee.cs" t="Include" />
             <e p="GetOrderParams.cs" t="Include" />
             <e p="GetShowcaseByIdResponse.cs" t="Include" />

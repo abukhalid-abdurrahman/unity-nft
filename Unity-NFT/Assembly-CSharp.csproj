@@ -60,6 +60,7 @@
      <Compile Include="Assets\Models\Cargo\ContractResaleItemsResponse.cs" />
      <Compile Include="Assets\Models\Cargo\ContractV3.cs" />
      <Compile Include="Assets\Models\Cargo\CrateVendorV3.cs" />
+     <Compile Include="Assets\Models\Cargo\CreateConsecutiveSaleParams.cs" />
      <Compile Include="Assets\Models\Cargo\Fee.cs" />
      <Compile Include="Assets\Models\Cargo\GetOrderParams.cs" />
      <Compile Include="Assets\Models\Cargo\GetShowcaseByIdResponse.cs" />
