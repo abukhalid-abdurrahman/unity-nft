@@ -62,6 +62,7 @@
      <Compile Include="Assets\Models\Cargo\ContractMetadata.cs" />
      <Compile Include="Assets\Models\Cargo\ContractResaleItemsResponse.cs" />
      <Compile Include="Assets\Models\Cargo\ContractV3.cs" />
+     <Compile Include="Assets\Models\Cargo\CPRT.cs" />
      <Compile Include="Assets\Models\Cargo\CrateVendorV3.cs" />
      <Compile Include="Assets\Models\Cargo\CreateConsecutiveSaleParams.cs" />
      <Compile Include="Assets\Models\Cargo\DisplayContent.cs" />

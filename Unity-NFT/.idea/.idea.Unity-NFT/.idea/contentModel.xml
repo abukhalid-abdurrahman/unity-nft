@@ -20,6 +20,7 @@
             <e p="ContractMetadata.cs" t="Include" />
             <e p="ContractResaleItemsResponse.cs" t="Include" />
             <e p="ContractV3.cs" t="Include" />
+            <e p="CPRT.cs" t="Include" />
             <e p="CrateVendorV3.cs" t="Include" />
             <e p="CreateConsecutiveSaleParams.cs" t="Include" />
             <e p="DisplayContent.cs" t="Include" />
